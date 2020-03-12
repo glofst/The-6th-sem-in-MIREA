@@ -1,0 +1,3 @@
+C:/Users/Slava/CLionProjects/DT_lab_1_Simplex_Method/cmake-build-debug/CMakeFiles/DT_lab_1_Simplex_Method.dir
+C:/Users/Slava/CLionProjects/DT_lab_1_Simplex_Method/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Slava/CLionProjects/DT_lab_1_Simplex_Method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
