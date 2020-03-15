@@ -1,3 +1,0 @@
-C:/Users/Slava/CLionProjects/DT_lab_2_Nelder-Mead_Method/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-C:/Users/Slava/CLionProjects/DT_lab_2_Nelder-Mead_Method/cmake-build-debug/CMakeFiles/DT_lab_2_Nelder_Mead_Method.dir
-C:/Users/Slava/CLionProjects/DT_lab_2_Nelder-Mead_Method/cmake-build-debug/CMakeFiles/edit_cache.dir
