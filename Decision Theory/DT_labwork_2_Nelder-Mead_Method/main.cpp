@@ -215,7 +215,7 @@ Coords compute_simplex_cg(vector<Coords> const& simplex_vars) {
 bool check_for_end(vector<double> func_values, double simplex_cg_func) {
     double sigma = 0;
     cout << endl << "Start checking end condition..." << endl;
-    for (int i = 0; i < n; ++i)
+    for (int i = 0; i <= n; ++i)
         sigma += pow((func_values[i] - simplex_cg_func), 2);
     sigma /= n+1;
     sigma = sqrt(sigma);
