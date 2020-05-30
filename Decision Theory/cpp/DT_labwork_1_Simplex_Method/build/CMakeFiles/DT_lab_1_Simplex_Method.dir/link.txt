@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/DT_lab_1_Simplex_Method.dir/main.cpp.o  -o DT_lab_1_Simplex_Method 

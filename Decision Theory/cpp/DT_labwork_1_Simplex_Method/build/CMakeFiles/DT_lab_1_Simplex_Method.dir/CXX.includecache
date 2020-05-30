@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/batman/mirea/The-6th-sem-in-MIREA/Decision Theory/DT_lab_1_Simplex_Method/main.cpp
+iostream
+-
+vector
+-
+cmath
+-
+

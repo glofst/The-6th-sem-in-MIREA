@@ -1,0 +1,3 @@
+/home/batman/mirea/The-6th-sem-in-MIREA/Decision Theory/DT_lab_1_Simplex_Method/build/CMakeFiles/rebuild_cache.dir
+/home/batman/mirea/The-6th-sem-in-MIREA/Decision Theory/DT_lab_1_Simplex_Method/build/CMakeFiles/DT_lab_1_Simplex_Method.dir
+/home/batman/mirea/The-6th-sem-in-MIREA/Decision Theory/DT_lab_1_Simplex_Method/build/CMakeFiles/edit_cache.dir
